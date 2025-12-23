@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d388d7ec-9bb8-4f83-82ad-da86a261822d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sem_6_Training_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy1-run-coroutine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy2-await-for-execution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy3-await-multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy4-1-tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy4-2-tasks-gather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy4-3-tasks-with-error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy4-4-tasks-gather-with-error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy4-5-tasks-taskgroup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy5-1-synchronization-lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy5-2-synchronous-semaphore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Async Python/asy5-3-synchronization-event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/_01_p00_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/_02_p00_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/PyTesting/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/PyTesting/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/T2_Parametrized/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/T2_Parametrized/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/T3_Fixtures/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/T3_Fixtures/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/src/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/tests/test_main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/tests/test_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL Lite/sql-lite-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/t4_mocks/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/t4_mocks/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +26,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Async Python/asy5-1-synchronization-lock.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -90,7 +66,7 @@
     "Python.test_main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>

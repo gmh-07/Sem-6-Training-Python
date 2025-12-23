@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d388d7ec-9bb8-4f83-82ad-da86a261822d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Sem_6_Training_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy1-run-coroutine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy2-await-for-execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy3-await-multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy4-1-tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy4-2-tasks-gather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy4-3-tasks-with-error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy4-4-tasks-gather-with-error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy4-5-tasks-taskgroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy5-1-synchronization-lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy5-2-synchronous-semaphore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async Python/asy5-3-synchronization-event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/_01_p00_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/_02_p00_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/PyTesting/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/PyTesting/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/T2_Parametrized/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/T2_Parametrized/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/T3_Fixtures/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/T3_Fixtures/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/src/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/tests/test_main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Testing/UnitTests/tests/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL Lite/sql-lite-intro.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Async Python/asy5-1-synchronization-lock.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="378qz0bbg3OnYCWZfHUcNJgI5Qf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python tests.Python tests in test_main.py.executor": "Run",
+    "Python.01_p00_sample.executor": "Run",
+    "Python.02_p00_intro.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python._02_p00_intro.executor": "Run",
+    "Python.asy1-run-coroutine.executor": "Run",
+    "Python.asy2-await-for-execution.executor": "Run",
+    "Python.asy3-await-multiple.executor": "Run",
+    "Python.asy4-1-tasks.executor": "Run",
+    "Python.asy4-3-tasks-with-error.executor": "Run",
+    "Python.asy4-4-tasks-gather-with-error.executor": "Run",
+    "Python.asy4-5-tasks-taskgroup.executor": "Run",
+    "Python.asy5-1-synchronization-lock.executor": "Run",
+    "Python.asy5-2-synchronous-semaphore.executor": "Run",
+    "Python.asy5-2-tasks-gather.executor": "Run",
+    "Python.asy5-3-synchronization-event.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.sql-lite-intro.executor": "Run",
+    "Python.test_main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d388d7ec-9bb8-4f83-82ad-da86a261822d" name="Changes" comment="" />
+      <created>1766295306237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766295306237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SQL Lite/sql-lite-intro.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
